@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: manifests
-    repoURL: https://github.com/robertorodriguez98/argo1.git
+    repoURL: https://github.com/robertorodriguez98/argocd1.git
     targetRevision: main
   syncPolicy:
     automated:
