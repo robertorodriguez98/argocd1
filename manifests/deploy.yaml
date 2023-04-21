@@ -18,7 +18,7 @@ spec:
         app: argoprueba1
     spec:
       containers:
-      - image: robertorm/pruebatekton:0071dff
+      - image: robertorm/pruebatekton:05aa0b8
         name: argoprueba1
         resources: {}
 
